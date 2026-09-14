@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Inch to Feet</string>
+    <string name="title_converter">Inch ⇄ Feet Converter</string>
+    <string name="tab_in_to_ft">Inches to Feet</string>
+    <string name="tab_ft_to_in">Feet to Inches</string>
+    <string name="input_inches_label">Inches (in)</string>
+    <string name="input_feet_label">Feet (ft)</string>
+    <string name="input_compound_inches_label">Remaining Inches (in)</string>
+    <string name="result_title">Converted Result</string>
+    <string name="compound_format_title">Feet &amp; Inches Format</string>
+    <string name="decimal_title">Decimal Representation</string>
+    <string name="metric_equivalent">Metric Equivalent</string>
+    <string name="btn_swap">Swap direction</string>
+    <string name="btn_copy">Copy result</string>
+    <string name="btn_clear">Clear</string>
+    <string name="copied_toast">Copied to clipboard!</string>
+    <string name="quick_fractions">Add Fractions</string>
+    <string name="quick_presets">Common Sizes</string>
+    <string name="conversion_history">Recent Conversions</string>
+    <string name="clear_history">Clear history</string>
+    <string name="no_history">No recent conversions yet</string>
+    <string name="precision_label">Decimals:</string>
+    <string name="formula_title">Conversion Formula</string>
+    <string name="visual_tape">Interactive Tape Measure</string>
+</resources>

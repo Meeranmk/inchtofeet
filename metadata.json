@@ -1,0 +1,6 @@
+{
+  "name": "Inch to Feet Converter",
+  "description": "Convert inches to feet and feet to inches with live calculations, compound ft/in breakdowns, and visual measurement guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
